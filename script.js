@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
         content.innerHTML = `
             <h2 class="slideshow-title">I Love You! 💕</h2>
             <p style="font-size: 24px; color: white; text-shadow: 1px 1px 3px rgba(0,0,0,0.3); margin-top: 20px;">
-                Happy Valentine's Day, Shortcake! ❤️
+                I'll see you on the 13th, Shortcake! ❤️
             </p>
             <div style="font-size: 80px; margin-top: 30px;">💖💕💝💗💓</div>
         `;
